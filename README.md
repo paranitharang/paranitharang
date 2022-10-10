@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paranitharan
-- 👀 I’m interested in Archtecting API Management, Java Spring Boot, Docker, K8, GKE, GCP
+- 👀 I’m interested in Archtecting API Management, Java Spring Boot, Docker, K8, GKE, GCP, AWS
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @7397077617/paranitharang@gmail.com
